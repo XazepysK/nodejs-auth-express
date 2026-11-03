@@ -1,0 +1,20 @@
+extends layout
+
+block content
+  main
+    section.login
+      h1 Register
+      form(action='/auth/register', method='post')
+        p
+          label(for='username') Email
+          br
+          input(id='username', name='username', type='email')
+        p
+          label(for='password') Password
+          br
+          input(id='password', name='password', type='password')
+        p
+          button(type='submit') Register
+      p
+         a(href='/login') Back to login
+  script(src='/javascripts/regis.js' defer)
