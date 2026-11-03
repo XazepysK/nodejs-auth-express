@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <a href="https://github.com/xazepysk" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/xazepysk.png" alt="Xazepysk profile" width="120" height="120" />
   </a>
