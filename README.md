@@ -1,8 +1,10 @@
-<a href="https://github.com/xazepysk" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/xazepysk.png" alt="Xazepysk profile" width="120" height="120" />
-</a>
+<div>
+  <a href="https://github.com/xazepysk" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/xazepysk.png" alt="Xazepysk profile" width="120" height="120" />
+  </a>
+</div>
 
-A simple Express.js authentication app built for personal use — a clean starter for login, registration, session handling, and SQLite-based user storage.
+A simple Express.js authentication app built for personal use - a clean starter for login, registration, session handling, and SQLite-based user storage.
 
 ## About
 
@@ -32,12 +34,12 @@ This project is a lightweight app for learning and quick setup. It gives you a m
 
 ## Project Structure
 
-- `app.js` — app setup and middleware
-- `routes/` — home, login, and register pages
-- `auth/` — auth logic and database access
-- `views/` — Jade templates
-- `data/` — SQLite database folder
-- `public/` — static files
+- `app.js` - app setup and middleware
+- `routes/` - home, login, and register pages
+- `auth/` - auth logic and database access
+- `views/` - Jade templates
+- `data/` - SQLite database folder
+- `public/` - static files
 
 ## Getting Started
 
@@ -61,11 +63,11 @@ This project is a lightweight app for learning and quick setup. It gives you a m
 
 ## Default Routes
 
-- `/` — home page (redirects to login if not authenticated)
-- `/login` — login page
-- `/register` — registration page
-- `/auth/login` — login API endpoint
-- `/auth/register` — registration API endpoint
+- `/` - home page (redirects to login if not authenticated)
+- `/login` - login page
+- `/register` - registration page
+- `/auth/login` - login API endpoint
+- `/auth/register` - registration API endpoint
 
 ## Database
 
