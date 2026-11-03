@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/xazepysk" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/xazepysk.png" alt="Xazepysk profile" width="120" height="120" />
+    <img src="https://github.com/xazepysk.png" alt="Xazepysk profile" width="300" height="300" />
   </a>
 </div>
 
